@@ -1,6 +1,6 @@
 # ViT_Keras_Simplified
 
-A simplified implementation of ViT ([Vision Transformar](https://en.wikipedia.org/wiki/Vision_transformer)) using Python and Keras on Jupyter Notebook.
+A simplified implementation of ViT ([Vision Transformer](https://en.wikipedia.org/wiki/Vision_transformer)) using Python and Keras on Jupyter Notebook.
 
 
 ### Why This Project?
